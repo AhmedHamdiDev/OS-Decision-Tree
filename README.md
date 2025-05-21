@@ -29,6 +29,7 @@ This decision tree helps recommend alternative operating systems to Windows base
                             * **A1.2.1.2.1.1.1) Do you want your system to break every single time you update it?**
                                 * **A1.2.1.2.1.1.1.1) Yes** $\rightarrow$ **Manjaro**
                                 * **A1.2.1.2.1.1.1.2) No** $\rightarrow$ **EndeavourOS**
+                        * **A1.2.1.2.1.2) No** $\rightarrow$ **Fedora**
 
 * **B) Somewhat. I prefer more privacy, but it's not my top priority.**
     * **B1. Are you comfortable with the CLI (Command Line Interface)?**
@@ -37,7 +38,7 @@ This decision tree helps recommend alternative operating systems to Windows base
                 * **B1.1.1.1) Yes**
                     * **B1.1.1.1.1) Which of these best describes your gaming needs and preferences?**
                         * **B1.1.1.1.1.1) I primarily play Steam games, and I want a console-like experience that boots directly into my game library.** $\rightarrow$ **SteamOS**
-                        * **B1.1.1.1.1.2) I play a mix of Steam and non-Steam games (e.g., Epic Games, GOG, emulators), and I want a versatile desktop environment that's excellent for gaming and general use.** $\rightarrow$ **Pop!_OS**
+                        * **B1.1.1.1.1.2) I play a mix of Steam and non-Steam games (e.g., Epic Games, GOG, emulators), and I want a versatile desktop environment that's excellent for gaming and general use.** $\rightarrow$ **Pop!\_OS**
                         * **B1.1.1.1.1.3) I play a mix of Steam and non-Steam games, and I want a gaming-focused desktop that uses an immutable system for reliability and easy rollbacks.** $\rightarrow$ **Bazzite**
                 * **B1.1.1.2) No**
                     * **B1.1.1.2.1) Are you willing to spend the next few hours debloating your system?**
@@ -56,4 +57,7 @@ This decision tree helps recommend alternative operating systems to Windows base
                 * **B1.2.1.2) macOS** $\rightarrow$ **Elementary OS**
                 * **B1.2.1.3) Something else / Willing to try something new** $\rightarrow$ **Ubuntu** (Note: lacks stability)
 
-* **C) Not really. Convenience and
+* **C) Not really. Convenience and functionality are more important.**
+    * **C1. Are you rich?**
+        * **C1.1) Yes** $\rightarrow$ **macOS**
+        * **C1.2) No** $\rightarrow$ **ChromeOS**
