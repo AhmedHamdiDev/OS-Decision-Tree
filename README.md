@@ -12,15 +12,7 @@ This decision tree helps recommend alternative operating systems to Windows base
             * **A1.1.1) Do you want to spend time compiling all your packages every single time you want to install something?**
                 * **A1.1.1.1) Yes** $\rightarrow$ **Gentoo**
                 * **A1.1.1.2) Somewhat** $\rightarrow$ **Arch Linux**
-                * **A1.1.1.3) No**
-                    * **A1.1.1.3.1) Are you a hacker?**
-                        * **A1.1.1.3.1.1) Yes** $\rightarrow$ **BlackArch**
-                        * **A1.1.1.3.1.2) Somewhat**
-                            * **A1.1.1.3.1.2.1) Do you prioritize anonymity/privacy or penetration testing tools?**
-                                * **A1.1.1.3.1.2.1.1) Is your hardware 20 years old?**
-                                    * **A1.1.1.3.1.2.1.1.1) Yes** $\rightarrow$ **Kali Linux**
-                                    * **A1.1.1.3.1.2.1.1.2) No** $\rightarrow$ **Parrot OS**
-                        * **A1.1.1.3.1.3) No** $\rightarrow$ **Linux From Scratch (LFS)**
+                * **A1.1.1.3) No** $\rightarrow$ **Linux From Scratch (LFS)**
         * **A1.2) No**
             * **A1.2.1) Do you value stability or bleeding edge technology?**
                 * **A1.2.1.1) Yes (Stability)** $\rightarrow$ **Debian**
